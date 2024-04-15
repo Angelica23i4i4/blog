@@ -93,27 +93,37 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://www.elibrary.ru/defaultx.asp?
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=new_profile&hl=ru
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Angelica23i4i4
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/search/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Anzelika-Fedorova
+  - icon: autoprefixer
+    icon_pack: fab
+    link: https://independent.academia.edu/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%D0%90%D0%BD%D0%B6%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0008-5651-1391&justRegistered=true
+  - icon: archive
+    icon_pack: fas
+    link: https://arxiv.org/user/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - icon: vk
+    icon_pack: fab
+    link: https://vk.com/a.fyodorova2016
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
