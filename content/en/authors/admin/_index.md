@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Анжелика
+title: Angelika
 
 # Name pronunciation (optional)
-name_pronunciation: anjzelika
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Анжелика
-last_name: Федорова
+first_name: Angelika
+last_name: Fyodorova
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: ☕️☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: студентка ФФМиЕН
+role: a FPaNS student
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский университет Дружбы народов
+  - name: Peoples' Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Моими исследовательскими интересами являются машинное обучение и анализ данных.
+bio: My research interests are machine learning and data analytics.
 
 # Interests to show in About widget
 interests:
-  - Исскуственный интеллект
-  - Разработка приложений 
-  - Изучение иностранных языков
+  - Artificial Intelligence
+  - Application Development
+  - Learning foreign languages
 
 # Education to show in About widget
 education:
@@ -48,7 +48,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Профессионально
+  - name: Professional
     items:
       - name: Python
         description: 50%
@@ -65,7 +65,7 @@ skills:
         percent: 30
         icon: computer
         icon_pack: fas
-  - name: Хобби
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -74,12 +74,12 @@ skills:
         percent: 60
         icon: language
         icon_pack: fas
-      - name: Кошки
+      - name: Cats
         description: 80%
         percent: 80
         icon: cat
         icon_pack: fas
-      - name: Разработка сервисов
+      - name: Service development
         description: 10%
         percent: 10
         icon: mobile phone
@@ -128,5 +128,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Анжелика Федорова -  студентка бакалавриата "Компьютерные  и информационные науки" в Россиийском университете дружбы народов. В настоящее время я изучаю анализ данных и машинное обучение. Люблю также изучать иностранные языки.
+Angelika Fedorova is a bachelor's student in Computer and Information Sciences at the Peoples' Friendship University of Russia. I am currently studying data analytics and machine learning. I also like to study foreign languages.
 {style="text-align: justify;"}

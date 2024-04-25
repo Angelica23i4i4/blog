@@ -26,6 +26,7 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreLogs: ['error-remote-getcsv']
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'

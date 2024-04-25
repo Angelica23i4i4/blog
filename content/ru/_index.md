@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Биография
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -117,9 +117,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: блог
     content:
-      title: Recent Posts
+      title: Недавние посты
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -146,7 +146,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Проекты
       filters:
         folders:
           - project
@@ -158,7 +158,7 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
+        - name: Все
           tag: '*'
         - name: Python
           tag: Python
@@ -172,7 +172,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Галерея
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -181,7 +181,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Рекомендуемые публикации
       filters:
         folders:
           - publication
@@ -191,7 +191,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние публикации
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -204,9 +204,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: разговоры
     content:
-      title: Recent & Upcoming Talks
+      title: Выступления
       filters:
         folders:
           - event
@@ -215,16 +215,16 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Популярные темы
     design:
       columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Контакты
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        По вопросам сотрудничества можете связаться со мной в любое время
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
