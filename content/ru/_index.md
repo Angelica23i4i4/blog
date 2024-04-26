@@ -204,7 +204,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: разговоры
+    id: talks
     content:
       title: Выступления
       filters:
@@ -234,8 +234,8 @@ sections:
         city: Stanford
         region: CA
         postcode: '94305'
-        country: United States
-        country_code: US
+        country: Россия
+        country_code: Россия
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
