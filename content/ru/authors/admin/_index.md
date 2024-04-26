@@ -35,15 +35,19 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - сourse: Поколение Python 
-      Организатор: Stepik 
-      год: 2021
-    - курс: Machine Learning
-      организатор: Youtube
-      год: 2024
-    - курс: 100 days of Python
-      организатор: Udemy
-      год: 2024
+     - course: Факультет физико-математических и естесcтвенных наук
+       organisation: RUDN University
+       year: 2027
+  
+     - course: Машинное обучение за 10 часов для новичков
+       organisation: Youtube
+       year: 2024
+       
+     - course: Поколение Python для начинающих и продивнутых
+       сurator: Youtube
+       year: 2021
+
+         
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
