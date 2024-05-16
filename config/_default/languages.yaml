@@ -11,6 +11,7 @@ en:
 ru:
   languageCode: "ru-ru"
   contentDir: "content/ru"
+  
   menu: 
     main:
       - name: Обо мне
