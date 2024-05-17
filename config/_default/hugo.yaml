@@ -14,6 +14,13 @@ baseURL: https://Angelica23i4i4.github.io/
 ############################
 
 defaultContentLanguage: en
+ru:
+  contentDir: content/ru
+  disabled: false
+  languageCode: ru-RU
+  languageDirection: ltr
+  languageName: Русский
+    
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
