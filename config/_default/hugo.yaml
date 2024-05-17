@@ -15,7 +15,7 @@ defaultContentLanguage: en
 languages:
   ru:
     contentDir: content/ru
-    languageName: Russian
+    languageName: Русский
     weight: 3
   en:
     contentDir: content/en
